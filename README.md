@@ -1,6 +1,4 @@
-# Vue App Demo
-
-<h2>Getting Started with Vue</h2>
+# Vue App Demo - Getting Started App
 
 ## Build Setup
 
